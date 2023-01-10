@@ -1,6 +1,6 @@
-## maliyo-application-shrinking-planet
+maliyo-application-shrinking-planet
 
-# Maliyo Intern Application 2023
+## Maliyo Intern Application 2023
 # Project 1: Shrinking Planet
 #### 10/01/2023
 #### By Joanna Oluoch
