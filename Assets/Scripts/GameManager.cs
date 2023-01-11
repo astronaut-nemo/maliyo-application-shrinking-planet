@@ -6,6 +6,7 @@ public class GameManager : MonoBehaviour {
 	public static GameManager instance;
 
 	public GameObject gameOverUI;
+	public GameObject scoreUI;
 
 	void Awake ()
 	{
@@ -15,6 +16,7 @@ public class GameManager : MonoBehaviour {
 	public void EndGame ()
 	{
 		gameOverUI.SetActive(true);
+		scoreUI.SetActive(false);
 	}
 
 	public void Restart ()
